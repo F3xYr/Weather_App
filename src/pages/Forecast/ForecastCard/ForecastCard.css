@@ -1,0 +1,32 @@
+.forecast {
+    margin-top: 20px;
+  }
+  
+  .forecast h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .forecast-list {
+    display: grid;
+    grid-template-columns: repeat(5, minmax(200px, 1fr));
+    gap: 20px;
+    margin-top: 30px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-bottom: 60px;
+  }
+  
+  .forecast-item {
+    background-color: #62B6CB;
+    border: 1px solid #1B4965;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .forecast-item p {
+    margin: 0;
+  }
+  

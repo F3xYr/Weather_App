@@ -1,0 +1,15 @@
+.weather-card {
+    position: relative;
+    border: 1px solid #1B4965;
+    background-color: #62B6CB;
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.paragraph{
+    margin-top: -10px;
+    
+}

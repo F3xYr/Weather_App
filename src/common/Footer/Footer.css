@@ -1,0 +1,17 @@
+.footer {
+    background-color: #1B4965;
+    color: #fff;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+
+}
+
+.footer-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+
+
